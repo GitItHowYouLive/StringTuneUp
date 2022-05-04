@@ -1,0 +1,16 @@
+C:\Users\Terrence\Desktop\Repos\StringTuneUp\StringTuneUp\bin\Debug\net5.0\StringTuneUp.exe
+C:\Users\Terrence\Desktop\Repos\StringTuneUp\StringTuneUp\bin\Debug\net5.0\StringTuneUp.deps.json
+C:\Users\Terrence\Desktop\Repos\StringTuneUp\StringTuneUp\bin\Debug\net5.0\StringTuneUp.runtimeconfig.json
+C:\Users\Terrence\Desktop\Repos\StringTuneUp\StringTuneUp\bin\Debug\net5.0\StringTuneUp.runtimeconfig.dev.json
+C:\Users\Terrence\Desktop\Repos\StringTuneUp\StringTuneUp\bin\Debug\net5.0\StringTuneUp.dll
+C:\Users\Terrence\Desktop\Repos\StringTuneUp\StringTuneUp\bin\Debug\net5.0\StringTuneUp.pdb
+C:\Users\Terrence\Desktop\Repos\StringTuneUp\StringTuneUp\obj\Debug\net5.0\StringTuneUp.csproj.AssemblyReference.cache
+C:\Users\Terrence\Desktop\Repos\StringTuneUp\StringTuneUp\obj\Debug\net5.0\StringTuneUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terrence\Desktop\Repos\StringTuneUp\StringTuneUp\obj\Debug\net5.0\StringTuneUp.AssemblyInfoInputs.cache
+C:\Users\Terrence\Desktop\Repos\StringTuneUp\StringTuneUp\obj\Debug\net5.0\StringTuneUp.AssemblyInfo.cs
+C:\Users\Terrence\Desktop\Repos\StringTuneUp\StringTuneUp\obj\Debug\net5.0\StringTuneUp.csproj.CoreCompileInputs.cache
+C:\Users\Terrence\Desktop\Repos\StringTuneUp\StringTuneUp\obj\Debug\net5.0\StringTuneUp.dll
+C:\Users\Terrence\Desktop\Repos\StringTuneUp\StringTuneUp\obj\Debug\net5.0\refint\StringTuneUp.dll
+C:\Users\Terrence\Desktop\Repos\StringTuneUp\StringTuneUp\obj\Debug\net5.0\StringTuneUp.pdb
+C:\Users\Terrence\Desktop\Repos\StringTuneUp\StringTuneUp\obj\Debug\net5.0\StringTuneUp.genruntimeconfig.cache
+C:\Users\Terrence\Desktop\Repos\StringTuneUp\StringTuneUp\obj\Debug\net5.0\ref\StringTuneUp.dll
